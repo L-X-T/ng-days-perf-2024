@@ -1,6 +1,6 @@
-# Angular Architects - Performance Workshop
+# Ng Days 2024 - Performance Workshop
 
-This project uses Nx 17 & NG 17. It was generated with [Nrwl Nx](https://nx.dev/getting-started/angular-standalone-tutorial) version 16.5.2 and [Angular CLI](https://github.com/angular/angular-cli) version 16.1.4, by [Alex T.](https://alex.thalhammer.name) and is based upon work by the [Angular Architects](https://www.angulararchitects.io).
+This project uses Nx 18 & NG 17. It was created by [Alex T.](https://alex.thalhammer.name) and is based upon work by the [Angular Architects](https://www.angulararchitects.io).
 
 ## Slides
 
