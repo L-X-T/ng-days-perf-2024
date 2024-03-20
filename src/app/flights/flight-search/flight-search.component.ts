@@ -142,10 +142,6 @@ export class FlightSearchComponent implements OnInit {
     this.router.navigate(['/flights/flight-edit', id, { showDetails: true }]);
   }
 
-  identifyFlightById(flight: Flight): number {
-    return flight.id;
-  }
-
   onRemoveSecondFlight(): void {
     this.flights.splice(1, 1);
   }
